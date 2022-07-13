@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/teams/static/css/main.0a7c0b52.chunk.css",
-    "main.js": "/teams/static/js/main.60a1a7aa.chunk.js",
-    "main.js.map": "/teams/static/js/main.60a1a7aa.chunk.js.map",
+    "main.css": "/teams/static/css/main.7a211789.chunk.css",
+    "main.js": "/teams/static/js/main.2d715b11.chunk.js",
+    "main.js.map": "/teams/static/js/main.2d715b11.chunk.js.map",
     "runtime-main.js": "/teams/static/js/runtime-main.1bca213f.js",
     "runtime-main.js.map": "/teams/static/js/runtime-main.1bca213f.js.map",
-    "static/js/2.941cf69b.chunk.js": "/teams/static/js/2.941cf69b.chunk.js",
-    "static/js/2.941cf69b.chunk.js.map": "/teams/static/js/2.941cf69b.chunk.js.map",
+    "static/js/2.6e775051.chunk.js": "/teams/static/js/2.6e775051.chunk.js",
+    "static/js/2.6e775051.chunk.js.map": "/teams/static/js/2.6e775051.chunk.js.map",
     "index.html": "/teams/index.html",
-    "static/css/main.0a7c0b52.chunk.css.map": "/teams/static/css/main.0a7c0b52.chunk.css.map",
-    "static/js/2.941cf69b.chunk.js.LICENSE.txt": "/teams/static/js/2.941cf69b.chunk.js.LICENSE.txt"
+    "static/css/main.7a211789.chunk.css.map": "/teams/static/css/main.7a211789.chunk.css.map",
+    "static/js/2.6e775051.chunk.js.LICENSE.txt": "/teams/static/js/2.6e775051.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/teams/static/media/timeline.7eb77e6e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1bca213f.js",
-    "static/js/2.941cf69b.chunk.js",
-    "static/css/main.0a7c0b52.chunk.css",
-    "static/js/main.60a1a7aa.chunk.js"
+    "static/js/2.6e775051.chunk.js",
+    "static/css/main.7a211789.chunk.css",
+    "static/js/main.2d715b11.chunk.js"
   ]
 }
